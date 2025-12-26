@@ -49,7 +49,7 @@
   object-fit: cover;
 }
 body {
-    margin: 0;
+    margin: 15;
     font-family: sans-serif;
 }
 
@@ -81,6 +81,7 @@ body{
 header{
   text-align: center;
 }
+
 
 
 
